@@ -1,0 +1,15 @@
+.container{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#screenshot{
+	width: 960px;
+	height: 540px;
+}
+
+#topBorder{
+	min-width: 100px;
+	min-height: 100px;
+}
+img{ max-width:50%;}
